@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: '<master-demo-load-testing-kareem>'
+  webAppName: 'master-demo-load-testing-kareem4006'
   serviceConnection: 'LoadTestingSC'
   azureSubscriptionId: '6db6c097-a209-4079-a738-1554a7ace29d'
   loadTestResource: 'masterdemoloadtestkareem'
